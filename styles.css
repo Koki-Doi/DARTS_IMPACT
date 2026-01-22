@@ -612,6 +612,11 @@ svg {
     grid-template-columns: 1fr;
   }
 
+  .hover-info {
+    height: 300px;
+    overflow-y: auto;
+  }
+
   .number-table {
     font-size: 0.85rem;
   }
